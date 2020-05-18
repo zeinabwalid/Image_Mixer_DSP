@@ -1,0 +1,1172 @@
+2020-03-22 23:16:55,697:DEBUG:1
+2020-03-22 23:16:58,489:DEBUG:2
+2020-03-22 23:17:03,809:DEBUG:4
+2020-03-22 23:17:05,908:DEBUG:5
+2020-03-22 23:17:07,959:DEBUG:6
+2020-03-22 23:20:17,265:DEBUG:User start to choose image 1
+2020-03-22 23:20:22,803:DEBUG:User start to choose image 2
+2020-03-22 23:51:18,678:INFO:User start to choose image 1
+2020-03-22 23:51:22,308:INFO:User start to choose image 2
+2020-03-22 23:51:27,210:INFO:user select a component from image 1
+2020-03-22 23:51:30,257:INFO:user select a component from image 2
+2020-03-22 23:51:33,102:INFO:user select a component from image 2
+2020-03-22 23:51:57,844:INFO:user ready to view mixing outputs
+2020-03-22 23:51:57,849:INFO:user mix 0.01 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-22 23:51:59,818:INFO:user ready to view mixing outputs
+2020-03-22 23:51:59,826:INFO:user mix 0.41 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-22 23:52:32,420:INFO:user ready to view mixing outputs
+2020-03-22 23:52:32,426:INFO:user mix 0.41 of Magnitude in image 1 and 0.02 of phase in image 2 on output 2
+2020-03-22 23:52:34,244:INFO:user ready to view mixing outputs
+2020-03-22 23:52:34,250:INFO:user mix 0.41 of Magnitude in image 1 and 0.94 of phase in image 2 on output 2
+2020-03-23 19:02:48,951:INFO:User start to choose image 1
+2020-03-23 19:02:54,689:INFO:User start to choose image 2
+2020-03-23 19:03:21,931:INFO:user mix 0.01 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 19:03:21,931:INFO:user ready to view mixing outputs
+2020-03-23 19:03:22,722:INFO:user mix 0.57 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 19:03:22,722:INFO:user ready to view mixing outputs
+2020-03-23 19:03:30,001:INFO:user mix 0.58 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 19:03:30,001:INFO:user ready to view mixing outputs
+2020-03-23 19:03:30,768:INFO:user mix 0.81 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 19:03:30,768:INFO:user ready to view mixing outputs
+2020-03-23 19:03:36,252:INFO:user mix 0.8 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 19:03:36,252:INFO:user ready to view mixing outputs
+2020-03-23 19:03:36,964:INFO:user mix 0.75 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 19:03:36,964:INFO:user ready to view mixing outputs
+2020-03-23 19:03:40,249:INFO:user mix 0.74 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 19:03:40,249:INFO:user ready to view mixing outputs
+2020-03-23 19:03:40,948:INFO:user mix 0.67 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 19:03:40,949:INFO:user ready to view mixing outputs
+2020-03-23 19:03:44,126:INFO:user mix 0.68 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 19:03:44,126:INFO:user ready to view mixing outputs
+2020-03-23 19:03:44,835:INFO:user mix 0.71 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 19:03:44,835:INFO:user ready to view mixing outputs
+2020-03-23 19:03:48,438:INFO:user mix 0.61 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 19:03:48,438:INFO:user ready to view mixing outputs
+2020-03-23 19:03:58,793:INFO:user mix 0.63 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 19:03:58,793:INFO:user ready to view mixing outputs
+2020-03-23 19:03:59,515:INFO:user mix 0.67 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 19:03:59,516:INFO:user ready to view mixing outputs
+2020-03-23 19:04:02,813:INFO:user mix 0.68 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 19:04:02,813:INFO:user ready to view mixing outputs
+2020-03-23 19:04:03,544:INFO:user mix 0.71 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 19:04:03,544:INFO:user ready to view mixing outputs
+2020-03-23 19:04:47,992:INFO:user mix 0.71 of Magnitude in image 1 and 0.01 of phase in image 2 on output 1
+2020-03-23 19:04:47,993:INFO:user ready to view mixing outputs
+2020-03-23 19:04:48,763:INFO:user mix 0.71 of Magnitude in image 1 and 0.65 of phase in image 2 on output 1
+2020-03-23 19:04:48,764:INFO:user ready to view mixing outputs
+2020-03-23 19:04:49,517:INFO:user mix 0.71 of Magnitude in image 1 and 0.73 of phase in image 2 on output 1
+2020-03-23 19:04:49,517:INFO:user ready to view mixing outputs
+2020-03-23 19:05:02,598:INFO:user mix 0.71 of Magnitude in image 1 and 0.72 of phase in image 2 on output 1
+2020-03-23 19:05:02,598:INFO:user ready to view mixing outputs
+2020-03-23 19:05:03,302:INFO:user mix 0.71 of Magnitude in image 1 and 0.69 of phase in image 2 on output 1
+2020-03-23 19:05:03,302:INFO:user ready to view mixing outputs
+2020-03-23 19:06:04,386:INFO:user mix 0.71 of Magnitude in image 1 and 0.68 of phase in image 2 on output 1
+2020-03-23 19:06:04,386:INFO:user ready to view mixing outputs
+2020-03-23 19:06:06,562:INFO:user mix 0.7 of Magnitude in image 1 and 0.68 of phase in image 2 on output 1
+2020-03-23 19:06:06,563:INFO:user ready to view mixing outputs
+2020-03-23 19:06:07,293:INFO:user mix 0.69 of Magnitude in image 1 and 0.68 of phase in image 2 on output 1
+2020-03-23 19:06:07,293:INFO:user ready to view mixing outputs
+2020-03-23 19:06:14,179:INFO:user mix 0.7 of Magnitude in image 1 and 0.68 of phase in image 2 on output 1
+2020-03-23 19:06:14,180:INFO:user ready to view mixing outputs
+2020-03-23 19:06:22,270:INFO:user mix 0.7 of Magnitude in image 1 and 0.69 of phase in image 2 on output 1
+2020-03-23 19:06:22,270:INFO:user ready to view mixing outputs
+2020-03-23 19:06:22,977:INFO:user mix 0.7 of Magnitude in image 1 and 0.7 of phase in image 2 on output 1
+2020-03-23 19:06:22,977:INFO:user ready to view mixing outputs
+2020-03-23 19:13:09,094:INFO:user mix 0.7 of Magnitude in image 1 and 0.69 of phase in image 2 on output 1
+2020-03-23 19:13:09,094:INFO:user ready to view mixing outputs
+2020-03-23 19:13:09,818:INFO:user mix 0.7 of Magnitude in image 1 and 0.34 of phase in image 2 on output 1
+2020-03-23 19:13:09,818:INFO:user ready to view mixing outputs
+2020-03-23 19:13:16,809:INFO:user mix 0.7 of Magnitude in image 1 and 0.33 of phase in image 2 on output 1
+2020-03-23 19:13:16,809:INFO:user ready to view mixing outputs
+2020-03-23 19:13:17,535:INFO:user mix 0.7 of Magnitude in image 1 and 0.28 of phase in image 2 on output 1
+2020-03-23 19:13:17,535:INFO:user ready to view mixing outputs
+2020-03-23 19:13:26,541:INFO:user mix 0.7 of Magnitude in image 1 and 0.29 of phase in image 2 on output 1
+2020-03-23 19:13:26,542:INFO:user ready to view mixing outputs
+2020-03-23 19:13:27,262:INFO:user mix 0.7 of Magnitude in image 1 and 0.31 of phase in image 2 on output 1
+2020-03-23 19:13:27,262:INFO:user ready to view mixing outputs
+2020-03-23 19:13:30,492:INFO:user mix 0.7 of Magnitude in image 1 and 0.3 of phase in image 2 on output 1
+2020-03-23 19:13:30,492:INFO:user ready to view mixing outputs
+2020-03-23 19:14:03,053:INFO:user mix 0.69 of Magnitude in image 1 and 0.3 of phase in image 2 on output 1
+2020-03-23 19:14:03,053:INFO:user ready to view mixing outputs
+2020-03-23 19:14:03,767:INFO:user mix 0.32 of Magnitude in image 1 and 0.3 of phase in image 2 on output 1
+2020-03-23 19:14:03,767:INFO:user ready to view mixing outputs
+2020-03-23 19:14:04,485:INFO:user mix 0.31 of Magnitude in image 1 and 0.3 of phase in image 2 on output 1
+2020-03-23 19:14:04,485:INFO:user ready to view mixing outputs
+2020-03-23 19:14:07,955:INFO:user mix 0.3 of Magnitude in image 1 and 0.3 of phase in image 2 on output 1
+2020-03-23 19:14:07,955:INFO:user ready to view mixing outputs
+2020-03-23 19:14:15,521:INFO:user mix 0.3 of Magnitude in image 1 and 0.31 of phase in image 2 on output 1
+2020-03-23 19:14:15,521:INFO:user ready to view mixing outputs
+2020-03-23 19:14:16,254:INFO:user mix 0.3 of Magnitude in image 1 and 0.78 of phase in image 2 on output 1
+2020-03-23 19:14:16,255:INFO:user ready to view mixing outputs
+2020-03-23 19:14:20,250:INFO:user mix 0.3 of Magnitude in image 1 and 0.77 of phase in image 2 on output 1
+2020-03-23 19:14:20,250:INFO:user ready to view mixing outputs
+2020-03-23 19:14:20,943:INFO:user mix 0.3 of Magnitude in image 1 and 0.7 of phase in image 2 on output 1
+2020-03-23 19:14:20,944:INFO:user ready to view mixing outputs
+2020-03-23 19:20:54,282:INFO:user mix 0.31 of Magnitude in image 1 and 0.7 of phase in image 2 on output 1
+2020-03-23 19:20:54,283:INFO:user ready to view mixing outputs
+2020-03-23 19:20:54,993:INFO:user mix 0.69 of Magnitude in image 1 and 0.7 of phase in image 2 on output 1
+2020-03-23 19:20:54,993:INFO:user ready to view mixing outputs
+2020-03-23 19:27:09,999:INFO:user mix 0.7 of Magnitude in image 1 and 0.7 of phase in image 2 on output 1
+2020-03-23 19:27:09,999:INFO:user ready to view mixing outputs
+2020-03-23 19:27:26,621:INFO:user mix 0.7 of Magnitude in image 1 and 0.69 of phase in image 2 on output 1
+2020-03-23 19:27:26,621:INFO:user ready to view mixing outputs
+2020-03-23 19:27:27,354:INFO:user mix 0.7 of Magnitude in image 1 and 0.42 of phase in image 2 on output 1
+2020-03-23 19:27:27,354:INFO:user ready to view mixing outputs
+2020-03-23 19:27:28,077:INFO:user mix 0.7 of Magnitude in image 1 and 0.35 of phase in image 2 on output 1
+2020-03-23 19:27:28,077:INFO:user ready to view mixing outputs
+2020-03-23 19:27:28,811:INFO:user mix 0.7 of Magnitude in image 1 and 0.36 of phase in image 2 on output 1
+2020-03-23 19:27:28,811:INFO:user ready to view mixing outputs
+2020-03-23 19:27:29,856:INFO:user mix 0.7 of Magnitude in image 1 and 0.35 of phase in image 2 on output 1
+2020-03-23 19:27:29,856:INFO:user ready to view mixing outputs
+2020-03-23 19:27:30,608:INFO:user mix 0.7 of Magnitude in image 1 and 0.33 of phase in image 2 on output 1
+2020-03-23 19:27:30,608:INFO:user ready to view mixing outputs
+2020-03-23 19:27:33,634:INFO:user mix 0.7 of Magnitude in image 1 and 0.32 of phase in image 2 on output 1
+2020-03-23 19:27:33,634:INFO:user ready to view mixing outputs
+2020-03-23 19:27:34,373:INFO:user mix 0.7 of Magnitude in image 1 and 0.29 of phase in image 2 on output 1
+2020-03-23 19:27:34,373:INFO:user ready to view mixing outputs
+2020-03-23 19:27:37,042:INFO:user mix 0.7 of Magnitude in image 1 and 0.3 of phase in image 2 on output 1
+2020-03-23 19:27:37,042:INFO:user ready to view mixing outputs
+2020-03-23 19:27:37,790:INFO:user mix 0.7 of Magnitude in image 1 and 0.32 of phase in image 2 on output 1
+2020-03-23 19:27:37,790:INFO:user ready to view mixing outputs
+2020-03-23 19:28:20,116:INFO:user mix 0.69 of Magnitude in image 1 and 0.32 of phase in image 2 on output 1
+2020-03-23 19:28:20,116:INFO:user ready to view mixing outputs
+2020-03-23 19:28:20,873:INFO:user mix 0.27 of Magnitude in image 1 and 0.32 of phase in image 2 on output 1
+2020-03-23 19:28:20,873:INFO:user ready to view mixing outputs
+2020-03-23 19:28:22,879:INFO:user mix 0.28 of Magnitude in image 1 and 0.32 of phase in image 2 on output 1
+2020-03-23 19:28:22,879:INFO:user ready to view mixing outputs
+2020-03-23 19:28:23,624:INFO:user mix 0.32 of Magnitude in image 1 and 0.32 of phase in image 2 on output 1
+2020-03-23 19:28:23,624:INFO:user ready to view mixing outputs
+2020-03-23 19:29:51,896:INFO:user mix 0.33 of Magnitude in image 1 and 0.32 of phase in image 2 on output 1
+2020-03-23 19:29:51,897:INFO:user ready to view mixing outputs
+2020-03-23 19:29:52,628:INFO:user mix 0.34 of Magnitude in image 1 and 0.32 of phase in image 2 on output 1
+2020-03-23 19:29:52,628:INFO:user ready to view mixing outputs
+2020-03-23 19:29:55,564:INFO:user mix 0.33 of Magnitude in image 1 and 0.32 of phase in image 2 on output 1
+2020-03-23 19:29:55,564:INFO:user ready to view mixing outputs
+2020-03-23 19:29:56,270:INFO:user mix 0.29 of Magnitude in image 1 and 0.32 of phase in image 2 on output 1
+2020-03-23 19:29:56,270:INFO:user ready to view mixing outputs
+2020-03-23 19:29:59,962:INFO:user mix 0.3 of Magnitude in image 1 and 0.32 of phase in image 2 on output 1
+2020-03-23 19:29:59,962:INFO:user ready to view mixing outputs
+2020-03-23 19:30:00,706:INFO:user mix 0.31 of Magnitude in image 1 and 0.32 of phase in image 2 on output 1
+2020-03-23 19:30:00,707:INFO:user ready to view mixing outputs
+2020-03-23 19:30:01,435:INFO:user mix 0.3 of Magnitude in image 1 and 0.32 of phase in image 2 on output 1
+2020-03-23 19:30:01,436:INFO:user ready to view mixing outputs
+2020-03-23 19:30:06,039:INFO:user mix 0.3 of Magnitude in image 1 and 0.34 of phase in image 2 on output 1
+2020-03-23 19:30:06,039:INFO:user ready to view mixing outputs
+2020-03-23 19:30:06,769:INFO:user mix 0.3 of Magnitude in image 1 and 0.66 of phase in image 2 on output 1
+2020-03-23 19:30:06,769:INFO:user ready to view mixing outputs
+2020-03-23 19:30:07,526:INFO:user mix 0.3 of Magnitude in image 1 and 0.75 of phase in image 2 on output 1
+2020-03-23 19:30:07,526:INFO:user ready to view mixing outputs
+2020-03-23 19:30:08,265:INFO:user mix 0.3 of Magnitude in image 1 and 0.85 of phase in image 2 on output 1
+2020-03-23 19:30:08,265:INFO:user ready to view mixing outputs
+2020-03-23 19:30:08,983:INFO:user mix 0.3 of Magnitude in image 1 and 0.81 of phase in image 2 on output 1
+2020-03-23 19:30:08,983:INFO:user ready to view mixing outputs
+2020-03-23 19:30:09,710:INFO:user mix 0.3 of Magnitude in image 1 and 0.69 of phase in image 2 on output 1
+2020-03-23 19:30:09,710:INFO:user ready to view mixing outputs
+2020-03-23 19:30:10,449:INFO:user mix 0.3 of Magnitude in image 1 and 0.66 of phase in image 2 on output 1
+2020-03-23 19:30:10,449:INFO:user ready to view mixing outputs
+2020-03-23 19:30:11,178:INFO:user mix 0.3 of Magnitude in image 1 and 0.67 of phase in image 2 on output 1
+2020-03-23 19:30:11,179:INFO:user ready to view mixing outputs
+2020-03-23 19:30:14,932:INFO:user mix 0.3 of Magnitude in image 1 and 0.68 of phase in image 2 on output 1
+2020-03-23 19:30:14,932:INFO:user ready to view mixing outputs
+2020-03-23 19:30:15,670:INFO:user mix 0.3 of Magnitude in image 1 and 0.72 of phase in image 2 on output 1
+2020-03-23 19:30:15,670:INFO:user ready to view mixing outputs
+2020-03-23 19:30:18,697:INFO:user mix 0.3 of Magnitude in image 1 and 0.71 of phase in image 2 on output 1
+2020-03-23 19:30:18,698:INFO:user ready to view mixing outputs
+2020-03-23 19:30:19,422:INFO:user mix 0.3 of Magnitude in image 1 and 0.69 of phase in image 2 on output 1
+2020-03-23 19:30:19,422:INFO:user ready to view mixing outputs
+2020-03-23 19:30:21,771:INFO:user mix 0.3 of Magnitude in image 1 and 0.7 of phase in image 2 on output 1
+2020-03-23 19:30:21,771:INFO:user ready to view mixing outputs
+2020-03-23 19:30:22,561:INFO:user mix 0.3 of Magnitude in image 1 and 0.72 of phase in image 2 on output 1
+2020-03-23 19:30:22,561:INFO:user ready to view mixing outputs
+2020-03-23 19:30:26,434:INFO:user mix 0.3 of Magnitude in image 1 and 0.71 of phase in image 2 on output 1
+2020-03-23 19:30:26,434:INFO:user ready to view mixing outputs
+2020-03-23 19:30:30,743:INFO:user mix 0.3 of Magnitude in image 1 and 0.7 of phase in image 2 on output 1
+2020-03-23 19:30:30,743:INFO:user ready to view mixing outputs
+2020-03-23 19:31:00,404:INFO:user select a component from image 1
+2020-03-23 19:31:04,096:INFO:user select a component from image 2
+2020-03-23 19:31:50,982:INFO:user mix 0.31 of Magnitude in image 1 and 0.7 of phase in image 2 on output 2
+2020-03-23 19:31:50,982:INFO:user ready to view mixing outputs
+2020-03-23 19:32:06,661:INFO:user ready to view mixing outputs
+2020-03-23 19:32:07,415:INFO:user ready to view mixing outputs
+2020-03-23 19:32:09,986:INFO:user ready to view mixing outputs
+2020-03-23 19:32:10,712:INFO:user ready to view mixing outputs
+2020-03-23 19:32:12,701:INFO:user ready to view mixing outputs
+2020-03-23 19:32:13,501:INFO:user ready to view mixing outputs
+2020-03-23 19:32:50,774:INFO:user ready to view mixing outputs
+2020-03-23 19:32:51,484:INFO:user ready to view mixing outputs
+2020-03-23 19:32:55,235:INFO:user ready to view mixing outputs
+2020-03-23 19:32:55,963:INFO:user ready to view mixing outputs
+2020-03-23 19:32:58,288:INFO:user ready to view mixing outputs
+2020-03-23 19:32:59,004:INFO:user ready to view mixing outputs
+2020-03-23 19:33:02,535:INFO:user ready to view mixing outputs
+2020-03-23 19:33:09,996:INFO:user ready to view mixing outputs
+2020-03-23 19:33:10,726:INFO:user ready to view mixing outputs
+2020-03-23 19:33:13,979:INFO:user ready to view mixing outputs
+2020-03-23 19:33:14,759:INFO:user ready to view mixing outputs
+2020-03-23 19:33:18,045:INFO:user ready to view mixing outputs
+2020-03-23 19:33:18,866:INFO:user ready to view mixing outputs
+2020-03-23 19:33:31,689:INFO:user ready to view mixing outputs
+2020-03-23 19:33:32,395:INFO:user ready to view mixing outputs
+2020-03-23 19:33:35,202:INFO:user ready to view mixing outputs
+2020-03-23 19:33:35,911:INFO:user ready to view mixing outputs
+2020-03-23 19:33:41,278:INFO:user ready to view mixing outputs
+2020-03-23 19:33:41,994:INFO:user ready to view mixing outputs
+2020-03-23 19:33:48,013:INFO:user ready to view mixing outputs
+2020-03-23 19:33:48,757:INFO:user ready to view mixing outputs
+2020-03-23 19:33:51,972:INFO:user ready to view mixing outputs
+2020-03-23 19:33:52,698:INFO:user ready to view mixing outputs
+2020-03-23 19:33:56,891:INFO:user ready to view mixing outputs
+2020-03-23 19:33:57,604:INFO:user ready to view mixing outputs
+2020-03-23 19:34:03,440:INFO:user ready to view mixing outputs
+2020-03-23 19:34:04,171:INFO:user ready to view mixing outputs
+2020-03-23 19:34:04,900:INFO:user ready to view mixing outputs
+2020-03-23 19:34:07,381:INFO:user ready to view mixing outputs
+2020-03-23 19:34:41,923:INFO:user select a component from image 1
+2020-03-23 19:34:45,567:INFO:user select a component from image 2
+2020-03-23 19:42:27,234:INFO:user select a component from image 1
+2020-03-23 19:42:31,389:INFO:user select a component from image 2
+2020-03-23 19:42:41,925:INFO:user ready to view mixing outputs
+2020-03-23 19:42:42,658:INFO:user ready to view mixing outputs
+2020-03-23 19:42:47,098:INFO:user ready to view mixing outputs
+2020-03-23 19:42:47,807:INFO:user ready to view mixing outputs
+2020-03-23 19:43:51,253:INFO:user ready to view mixing outputs
+2020-03-23 19:43:51,965:INFO:user ready to view mixing outputs
+2020-03-23 19:44:12,762:INFO:user ready to view mixing outputs
+2020-03-23 19:44:13,638:INFO:user ready to view mixing outputs
+2020-03-23 19:44:16,972:INFO:user ready to view mixing outputs
+2020-03-23 19:44:17,705:INFO:user ready to view mixing outputs
+2020-03-23 19:44:20,053:INFO:user ready to view mixing outputs
+2020-03-23 19:44:20,771:INFO:user ready to view mixing outputs
+2020-03-23 19:44:23,969:INFO:user ready to view mixing outputs
+2020-03-23 19:44:24,704:INFO:user ready to view mixing outputs
+2020-03-23 19:44:26,715:INFO:user ready to view mixing outputs
+2020-03-23 19:44:27,468:INFO:user ready to view mixing outputs
+2020-03-23 19:44:30,325:INFO:user ready to view mixing outputs
+2020-03-23 19:44:31,047:INFO:user ready to view mixing outputs
+2020-03-23 19:44:31,780:INFO:user ready to view mixing outputs
+2020-03-23 19:44:34,667:INFO:user ready to view mixing outputs
+2020-03-23 19:44:35,370:INFO:user ready to view mixing outputs
+2020-03-23 19:44:39,709:INFO:user ready to view mixing outputs
+2020-03-23 19:44:43,502:INFO:user ready to view mixing outputs
+2020-03-23 19:45:55,121:INFO:user ready to view mixing outputs
+2020-03-23 19:45:55,846:INFO:user ready to view mixing outputs
+2020-03-23 19:46:00,453:INFO:user ready to view mixing outputs
+2020-03-23 19:46:01,193:INFO:user ready to view mixing outputs
+2020-03-23 19:46:05,057:INFO:user ready to view mixing outputs
+2020-03-23 19:46:05,797:INFO:user ready to view mixing outputs
+2020-03-23 19:46:08,745:INFO:user ready to view mixing outputs
+2020-03-23 19:47:54,491:INFO:user ready to view mixing outputs
+2020-03-23 19:47:55,237:INFO:user ready to view mixing outputs
+2020-03-23 19:48:02,317:INFO:user ready to view mixing outputs
+2020-03-23 19:48:03,071:INFO:user ready to view mixing outputs
+2020-03-23 19:48:14,915:INFO:user ready to view mixing outputs
+2020-03-23 19:48:15,642:INFO:user ready to view mixing outputs
+2020-03-23 19:48:18,176:INFO:user ready to view mixing outputs
+2020-03-23 19:48:18,901:INFO:user ready to view mixing outputs
+2020-03-23 19:48:20,979:INFO:user ready to view mixing outputs
+2020-03-23 19:48:21,704:INFO:user ready to view mixing outputs
+2020-03-23 19:48:25,545:INFO:user ready to view mixing outputs
+2020-03-23 19:48:26,280:INFO:user ready to view mixing outputs
+2020-03-23 19:48:29,626:INFO:user ready to view mixing outputs
+2020-03-23 19:48:32,174:INFO:user ready to view mixing outputs
+2020-03-23 19:48:32,896:INFO:user ready to view mixing outputs
+2020-03-23 19:48:37,913:INFO:user ready to view mixing outputs
+2020-03-23 19:48:38,651:INFO:user ready to view mixing outputs
+2020-03-23 19:48:41,394:INFO:user ready to view mixing outputs
+2020-03-23 19:48:42,117:INFO:user ready to view mixing outputs
+2020-03-23 19:48:44,316:INFO:user ready to view mixing outputs
+2020-03-23 19:48:45,041:INFO:user ready to view mixing outputs
+2020-03-23 19:48:48,563:INFO:user ready to view mixing outputs
+2020-03-23 19:49:10,808:INFO:User start to choose image 1
+2020-03-23 19:49:14,792:INFO:User start to choose image 2
+2020-03-23 19:49:30,072:INFO:user ready to view mixing outputs
+2020-03-23 19:49:30,825:INFO:user ready to view mixing outputs
+2020-03-23 19:49:34,559:INFO:user ready to view mixing outputs
+2020-03-23 19:49:35,279:INFO:user ready to view mixing outputs
+2020-03-23 19:49:37,400:INFO:user ready to view mixing outputs
+2020-03-23 19:49:40,926:INFO:user ready to view mixing outputs
+2020-03-23 19:49:41,658:INFO:user ready to view mixing outputs
+2020-03-23 19:49:44,453:INFO:user ready to view mixing outputs
+2020-03-23 19:49:45,178:INFO:user ready to view mixing outputs
+2020-03-23 19:49:48,664:INFO:user ready to view mixing outputs
+2020-03-23 19:49:51,374:INFO:user ready to view mixing outputs
+2020-03-23 19:49:52,091:INFO:user ready to view mixing outputs
+2020-03-23 19:49:58,259:INFO:user ready to view mixing outputs
+2020-03-23 19:49:58,972:INFO:user ready to view mixing outputs
+2020-03-23 19:50:02,107:INFO:user ready to view mixing outputs
+2020-03-23 19:50:02,845:INFO:user ready to view mixing outputs
+2020-03-23 19:50:07,480:INFO:user ready to view mixing outputs
+2020-03-23 19:50:08,186:INFO:user ready to view mixing outputs
+2020-03-23 19:56:52,174:INFO:User start to choose image 1
+2020-03-23 19:56:57,369:INFO:User start to choose image 2
+2020-03-23 19:57:19,600:INFO:user ready to view mixing outputs
+2020-03-23 19:57:20,324:INFO:user ready to view mixing outputs
+2020-03-23 19:57:25,333:INFO:user ready to view mixing outputs
+2020-03-23 19:57:25,986:INFO:user ready to view mixing outputs
+2020-03-23 19:57:28,301:INFO:user ready to view mixing outputs
+2020-03-23 19:57:33,242:INFO:user ready to view mixing outputs
+2020-03-23 19:57:33,889:INFO:user ready to view mixing outputs
+2020-03-23 19:57:38,773:INFO:user ready to view mixing outputs
+2020-03-23 19:57:39,435:INFO:user ready to view mixing outputs
+2020-03-23 19:57:41,533:INFO:user ready to view mixing outputs
+2020-03-23 19:57:42,198:INFO:user ready to view mixing outputs
+2020-03-23 19:57:45,441:INFO:user ready to view mixing outputs
+2020-03-23 19:57:46,095:INFO:user ready to view mixing outputs
+2020-03-23 19:57:53,471:INFO:user ready to view mixing outputs
+2020-03-23 19:57:54,243:INFO:user ready to view mixing outputs
+2020-03-23 19:57:58,441:INFO:user ready to view mixing outputs
+2020-03-23 19:57:59,086:INFO:user ready to view mixing outputs
+2020-03-23 19:58:02,798:INFO:user ready to view mixing outputs
+2020-03-23 19:58:03,466:INFO:user ready to view mixing outputs
+2020-03-23 19:58:07,077:INFO:user ready to view mixing outputs
+2020-03-23 19:58:07,746:INFO:user ready to view mixing outputs
+2020-03-23 19:58:17,307:INFO:user ready to view mixing outputs
+2020-03-23 19:58:24,170:INFO:user select a component from image 1
+2020-03-23 19:58:28,092:INFO:user select a component from image 2
+2020-03-23 19:58:49,787:INFO:user ready to view mixing outputs
+2020-03-23 19:58:50,459:INFO:user ready to view mixing outputs
+2020-03-23 19:58:53,659:INFO:user ready to view mixing outputs
+2020-03-23 19:58:54,318:INFO:user ready to view mixing outputs
+2020-03-23 19:58:56,528:INFO:user ready to view mixing outputs
+2020-03-23 19:58:57,200:INFO:user ready to view mixing outputs
+2020-03-23 19:59:04,574:INFO:user ready to view mixing outputs
+2020-03-23 19:59:05,225:INFO:user ready to view mixing outputs
+2020-03-23 19:59:07,226:INFO:user ready to view mixing outputs
+2020-03-23 19:59:07,888:INFO:user ready to view mixing outputs
+2020-03-23 19:59:11,595:INFO:user ready to view mixing outputs
+2020-03-23 19:59:12,265:INFO:user ready to view mixing outputs
+2020-03-23 19:59:16,023:INFO:user ready to view mixing outputs
+2020-03-23 19:59:16,672:INFO:user ready to view mixing outputs
+2020-03-23 20:01:02,564:INFO:user ready to view mixing outputs
+2020-03-23 20:01:03,271:INFO:user ready to view mixing outputs
+2020-03-23 20:01:24,390:INFO:user ready to view mixing outputs
+2020-03-23 20:01:25,050:INFO:user ready to view mixing outputs
+2020-03-23 20:01:25,719:INFO:user ready to view mixing outputs
+2020-03-23 20:01:26,375:INFO:user ready to view mixing outputs
+2020-03-23 20:01:27,982:INFO:user ready to view mixing outputs
+2020-03-23 20:01:28,665:INFO:user ready to view mixing outputs
+2020-03-23 20:01:32,350:INFO:user ready to view mixing outputs
+2020-03-23 20:01:35,404:INFO:user ready to view mixing outputs
+2020-03-23 20:01:36,052:INFO:user ready to view mixing outputs
+2020-03-23 20:01:39,201:INFO:user ready to view mixing outputs
+2020-03-23 20:01:39,849:INFO:user ready to view mixing outputs
+2020-03-23 20:01:41,942:INFO:user ready to view mixing outputs
+2020-03-23 20:01:42,597:INFO:user ready to view mixing outputs
+2020-03-23 20:01:51,121:INFO:user ready to view mixing outputs
+2020-03-23 20:02:11,803:INFO:user ready to view mixing outputs
+2020-03-23 20:02:12,490:INFO:user ready to view mixing outputs
+2020-03-23 20:02:15,968:INFO:user ready to view mixing outputs
+2020-03-23 20:02:16,643:INFO:user ready to view mixing outputs
+2020-03-23 20:02:18,654:INFO:user ready to view mixing outputs
+2020-03-23 20:02:19,337:INFO:user ready to view mixing outputs
+2020-03-23 20:02:25,032:INFO:user ready to view mixing outputs
+2020-03-23 20:02:28,370:INFO:user ready to view mixing outputs
+2020-03-23 20:02:29,096:INFO:user ready to view mixing outputs
+2020-03-23 20:02:31,565:INFO:user ready to view mixing outputs
+2020-03-23 20:02:32,214:INFO:user ready to view mixing outputs
+2020-03-23 20:02:34,591:INFO:user ready to view mixing outputs
+2020-03-23 20:02:35,254:INFO:user ready to view mixing outputs
+2020-03-23 20:02:38,137:INFO:user ready to view mixing outputs
+2020-03-23 20:02:38,792:INFO:user ready to view mixing outputs
+2020-03-23 20:02:41,311:INFO:user ready to view mixing outputs
+2020-03-23 20:05:04,198:INFO:user ready to view mixing outputs
+2020-03-23 20:05:04,843:INFO:user ready to view mixing outputs
+2020-03-23 20:05:07,452:INFO:user ready to view mixing outputs
+2020-03-23 20:05:08,095:INFO:user ready to view mixing outputs
+2020-03-23 20:05:11,848:INFO:user ready to view mixing outputs
+2020-03-23 20:05:12,512:INFO:user ready to view mixing outputs
+2020-03-23 20:05:13,185:INFO:user ready to view mixing outputs
+2020-03-23 20:05:16,860:INFO:user ready to view mixing outputs
+2020-03-23 20:08:46,114:INFO:User start to choose image 1
+2020-03-23 20:08:50,544:INFO:User start to choose image 2
+2020-03-23 20:09:06,496:INFO:user ready to view mixing outputs
+2020-03-23 20:09:07,191:INFO:user ready to view mixing outputs
+2020-03-23 20:09:12,513:INFO:user ready to view mixing outputs
+2020-03-23 20:09:13,192:INFO:user ready to view mixing outputs
+2020-03-23 20:09:16,174:INFO:user ready to view mixing outputs
+2020-03-23 20:09:16,852:INFO:user ready to view mixing outputs
+2020-03-23 20:09:19,389:INFO:user ready to view mixing outputs
+2020-03-23 20:09:20,050:INFO:user ready to view mixing outputs
+2020-03-23 20:09:23,911:INFO:user ready to view mixing outputs
+2020-03-23 20:09:26,885:INFO:user ready to view mixing outputs
+2020-03-23 20:09:27,566:INFO:user ready to view mixing outputs
+2020-03-23 20:09:28,242:INFO:user ready to view mixing outputs
+2020-03-23 20:09:30,899:INFO:user ready to view mixing outputs
+2020-03-23 20:09:31,578:INFO:user ready to view mixing outputs
+2020-03-23 20:09:35,605:INFO:user ready to view mixing outputs
+2020-03-23 20:09:36,265:INFO:user ready to view mixing outputs
+2020-03-23 20:39:56,198:INFO:User start to choose image 1
+2020-03-23 20:39:59,812:INFO:User start to choose image 2
+2020-03-23 20:40:21,503:INFO:user mix 0.01 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 20:40:21,503:INFO:user ready to view mixing outputs
+2020-03-23 20:40:22,131:INFO:user mix 0.32 of Magnitude in image 1 and 0 of phase in image 2 on output 1
+2020-03-23 20:40:22,131:INFO:user ready to view mixing outputs
+2020-03-23 20:40:31,870:INFO:user mix 0.32 of Magnitude in image 1 and 0.01 of phase in image 2 on output 1
+2020-03-23 20:40:31,870:INFO:user ready to view mixing outputs
+2020-03-23 20:40:32,480:INFO:user mix 0.32 of Magnitude in image 1 and 0.61 of phase in image 2 on output 1
+2020-03-23 20:40:32,481:INFO:user ready to view mixing outputs
+2020-03-23 20:40:40,191:INFO:user mix 0.32 of Magnitude in image 1 and 0.62 of phase in image 2 on output 1
+2020-03-23 20:40:40,192:INFO:user ready to view mixing outputs
+2020-03-23 20:40:40,764:INFO:user mix 0.32 of Magnitude in image 1 and 0.97 of phase in image 2 on output 1
+2020-03-23 20:40:40,764:INFO:user ready to view mixing outputs
+2020-03-23 20:40:41,339:INFO:user mix 0.32 of Magnitude in image 1 and 0.98 of phase in image 2 on output 1
+2020-03-23 20:40:41,339:INFO:user ready to view mixing outputs
+2020-03-23 20:40:57,173:INFO:user mix 0.35 of Magnitude in image 1 and 0.98 of phase in image 2 on output 1
+2020-03-23 20:40:57,173:INFO:user ready to view mixing outputs
+2020-03-23 20:40:57,752:INFO:user mix 1.0 of Magnitude in image 1 and 0.98 of phase in image 2 on output 1
+2020-03-23 20:40:57,752:INFO:user ready to view mixing outputs
+2020-03-23 21:16:43,088:INFO:User start to choose image 1
+2020-03-23 21:16:49,396:ERROR:user enter image of wrong size
+2020-03-23 21:16:49,398:INFO:User start to choose image 2
+2020-03-23 21:16:53,223:INFO:User start to choose image 2
+2020-03-23 21:22:27,220:INFO:User start to choose image 1
+2020-03-23 21:22:31,132:INFO:User start to choose image 2
+2020-03-23 21:22:33,834:INFO:user select a component from image 1
+2020-03-23 21:22:36,124:INFO:user select a component from image 1
+2020-03-23 21:22:38,591:INFO:user select a component from image 1
+2020-03-23 21:22:41,249:INFO:user select a component from image 1
+2020-03-23 21:22:43,652:INFO:user select a component from image 2
+2020-03-23 21:22:46,097:INFO:user select a component from image 2
+2020-03-23 21:22:48,054:INFO:user select a component from image 2
+2020-03-23 21:34:45,231:INFO:User start to choose image 1
+2020-03-23 21:34:48,743:INFO:User start to choose image 2
+2020-03-23 21:56:30,552:INFO:User start to choose image 1
+2020-03-23 21:56:34,497:INFO:User start to choose image 2
+2020-03-23 21:56:51,201:INFO:user mix 0.01 of Magnitude in image 0 and 0 of phase in image 0 on output 1
+2020-03-23 21:56:51,201:INFO:user ready to view mixing outputs
+2020-03-23 21:56:51,445:INFO:user mix 0.32 of Magnitude in image 0 and 0 of phase in image 0 on output 1
+2020-03-23 21:56:51,445:INFO:user ready to view mixing outputs
+2020-03-23 21:56:51,666:INFO:user mix 0.33 of Magnitude in image 0 and 0 of phase in image 0 on output 1
+2020-03-23 21:56:51,666:INFO:user ready to view mixing outputs
+2020-03-23 21:56:54,982:INFO:user mix 0.32 of Magnitude in image 0 and 0 of phase in image 0 on output 1
+2020-03-23 21:56:54,982:INFO:user ready to view mixing outputs
+2020-03-23 21:56:55,216:INFO:user mix 0.29 of Magnitude in image 0 and 0 of phase in image 0 on output 1
+2020-03-23 21:56:55,216:INFO:user ready to view mixing outputs
+2020-03-23 21:56:57,517:INFO:user mix 0.3 of Magnitude in image 0 and 0 of phase in image 0 on output 1
+2020-03-23 21:56:57,517:INFO:user ready to view mixing outputs
+2020-03-23 21:56:57,739:INFO:user mix 0.31 of Magnitude in image 0 and 0 of phase in image 0 on output 1
+2020-03-23 21:56:57,739:INFO:user ready to view mixing outputs
+2020-03-23 21:56:59,508:INFO:user mix 0.31 of Magnitude in image 0 and 0.01 of phase in image 0 on output 1
+2020-03-23 21:56:59,508:INFO:user ready to view mixing outputs
+2020-03-23 21:56:59,734:INFO:user mix 0.31 of Magnitude in image 0 and 0.56 of phase in image 0 on output 1
+2020-03-23 21:56:59,734:INFO:user ready to view mixing outputs
+2020-03-23 21:57:00,050:INFO:user mix 0.31 of Magnitude in image 0 and 0.78 of phase in image 0 on output 1
+2020-03-23 21:57:00,050:INFO:user ready to view mixing outputs
+2020-03-23 21:57:00,351:INFO:user mix 0.31 of Magnitude in image 0 and 0.79 of phase in image 0 on output 1
+2020-03-23 21:57:00,351:INFO:user ready to view mixing outputs
+2020-03-23 21:57:01,950:INFO:user mix 0.31 of Magnitude in image 0 and 0.78 of phase in image 0 on output 1
+2020-03-23 21:57:01,950:INFO:user ready to view mixing outputs
+2020-03-23 21:57:02,192:INFO:user mix 0.31 of Magnitude in image 0 and 0.74 of phase in image 0 on output 1
+2020-03-23 21:57:02,192:INFO:user ready to view mixing outputs
+2020-03-23 21:57:04,580:INFO:user mix 0.31 of Magnitude in image 0 and 0.73 of phase in image 0 on output 1
+2020-03-23 21:57:04,580:INFO:user ready to view mixing outputs
+2020-03-23 21:57:04,802:INFO:user mix 0.31 of Magnitude in image 0 and 0.71 of phase in image 0 on output 1
+2020-03-23 21:57:04,802:INFO:user ready to view mixing outputs
+2020-03-23 21:57:14,905:INFO:user mix 0.31 of Magnitude in image 0 and 0.7 of phase in image 0 on output 1
+2020-03-23 21:57:14,905:INFO:user ready to view mixing outputs
+2020-03-23 21:57:15,254:INFO:user mix 0.31 of Magnitude in image 0 and 0.66 of phase in image 0 on output 1
+2020-03-23 21:57:15,254:INFO:user ready to view mixing outputs
+2020-03-23 21:57:16,527:INFO:user mix 0.31 of Magnitude in image 0 and 0.67 of phase in image 0 on output 1
+2020-03-23 21:57:16,528:INFO:user ready to view mixing outputs
+2020-03-23 21:57:16,754:INFO:user mix 0.31 of Magnitude in image 0 and 0.7 of phase in image 0 on output 1
+2020-03-23 21:57:16,754:INFO:user ready to view mixing outputs
+2020-03-23 21:57:42,785:INFO:user mix 0.32 of Magnitude in image 0 and 0.7 of phase in image 0 on output 1
+2020-03-23 21:57:42,785:INFO:user ready to view mixing outputs
+2020-03-23 21:57:43,005:INFO:user mix 0.53 of Magnitude in image 0 and 0.7 of phase in image 0 on output 1
+2020-03-23 21:57:43,005:INFO:user ready to view mixing outputs
+2020-03-23 21:57:43,234:INFO:user mix 0.63 of Magnitude in image 0 and 0.7 of phase in image 0 on output 1
+2020-03-23 21:57:43,234:INFO:user ready to view mixing outputs
+2020-03-23 21:57:43,457:INFO:user mix 0.66 of Magnitude in image 0 and 0.7 of phase in image 0 on output 1
+2020-03-23 21:57:43,457:INFO:user ready to view mixing outputs
+2020-03-23 21:57:46,388:INFO:user mix 0.67 of Magnitude in image 0 and 0.7 of phase in image 0 on output 1
+2020-03-23 21:57:46,388:INFO:user ready to view mixing outputs
+2020-03-23 21:57:46,629:INFO:user mix 0.68 of Magnitude in image 0 and 0.7 of phase in image 0 on output 1
+2020-03-23 21:57:46,629:INFO:user ready to view mixing outputs
+2020-03-23 21:57:46,852:INFO:user mix 0.69 of Magnitude in image 0 and 0.7 of phase in image 0 on output 1
+2020-03-23 21:57:46,853:INFO:user ready to view mixing outputs
+2020-03-23 21:57:50,065:INFO:user mix 0.69 of Magnitude in image 0 and 0.69 of phase in image 0 on output 1
+2020-03-23 21:57:50,065:INFO:user ready to view mixing outputs
+2020-03-23 21:57:50,305:INFO:user mix 0.69 of Magnitude in image 0 and 0.52 of phase in image 0 on output 1
+2020-03-23 21:57:50,306:INFO:user ready to view mixing outputs
+2020-03-23 21:57:50,531:INFO:user mix 0.69 of Magnitude in image 0 and 0.36 of phase in image 0 on output 1
+2020-03-23 21:57:50,531:INFO:user ready to view mixing outputs
+2020-03-23 21:57:50,751:INFO:user mix 0.69 of Magnitude in image 0 and 0.3 of phase in image 0 on output 1
+2020-03-23 21:57:50,751:INFO:user ready to view mixing outputs
+2020-03-23 22:02:48,119:INFO:User start to choose image 1
+2020-03-23 22:02:51,925:INFO:User start to choose image 2
+2020-03-23 22:06:41,063:INFO:User start to choose image 1
+2020-03-23 22:06:44,288:INFO:User start to choose image 2
+2020-03-23 22:09:34,662:INFO:User start to choose image 1
+2020-03-23 22:09:38,303:INFO:User start to choose image 2
+2020-03-23 22:09:51,321:INFO:user mix 0.01 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 22:09:51,322:INFO:user ready to view mixing outputs
+2020-03-23 22:09:51,904:INFO:user mix 0.34 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 22:09:51,904:INFO:user ready to view mixing outputs
+2020-03-23 22:09:56,897:INFO:user mix 0.36 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 22:09:56,897:INFO:user ready to view mixing outputs
+2020-03-23 22:09:57,475:INFO:user mix 0.78 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 22:09:57,476:INFO:user ready to view mixing outputs
+2020-03-23 22:09:58,050:INFO:user mix 0.79 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 22:09:58,050:INFO:user ready to view mixing outputs
+2020-03-23 22:09:59,818:INFO:user mix 0.8 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 22:09:59,818:INFO:user ready to view mixing outputs
+2020-03-23 22:10:00,414:INFO:user mix 1.0 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 22:10:00,414:INFO:user ready to view mixing outputs
+2020-03-23 23:10:26,174:INFO:User start to choose image 1
+2020-03-23 23:11:23,421:ERROR:user enter image of wrong size
+2020-03-23 23:11:23,434:INFO:User start to choose image 2
+2020-03-23 23:11:32,906:INFO:User start to choose image 2
+2020-03-23 23:11:38,003:INFO:User start to choose image 1
+2020-03-23 23:11:44,225:INFO:User start to choose image 2
+2020-03-23 23:11:51,813:INFO:user select a component from image 1
+2020-03-23 23:11:55,246:INFO:user select a component from image 2
+2020-03-23 23:12:12,776:INFO:user select a component from image 1
+2020-03-23 23:12:33,103:INFO:user select a component from image 1
+2020-03-23 23:13:14,270:INFO:user select a component from image 1
+2020-03-23 23:13:17,943:INFO:user select a component from image 2
+2020-03-23 23:13:56,025:INFO:user select a component from image 1
+2020-03-23 23:13:58,953:INFO:user select a component from image 2
+2020-03-23 23:14:58,173:INFO:user select a component from image 1
+2020-03-23 23:15:01,397:INFO:user select a component from image 2
+2020-03-23 23:15:05,225:INFO:user select a component from image 1
+2020-03-23 23:16:16,122:INFO:user mix 0.01 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 23:16:16,122:INFO:user ready to view mixing outputs
+2020-03-23 23:16:16,382:INFO:user mix 0.07 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 23:16:16,383:INFO:user ready to view mixing outputs
+2020-03-23 23:16:16,607:INFO:user mix 0.12 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 23:16:16,607:INFO:user ready to view mixing outputs
+2020-03-23 23:16:16,851:INFO:user mix 0.13 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 23:16:16,851:INFO:user ready to view mixing outputs
+2020-03-23 23:16:17,075:INFO:user mix 0.16 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 23:16:17,076:INFO:user ready to view mixing outputs
+2020-03-23 23:16:17,303:INFO:user mix 0.2 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 23:16:17,303:INFO:user ready to view mixing outputs
+2020-03-23 23:16:17,527:INFO:user mix 0.25 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 23:16:17,527:INFO:user ready to view mixing outputs
+2020-03-23 23:16:17,749:INFO:user mix 0.31 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 23:16:17,749:INFO:user ready to view mixing outputs
+2020-03-23 23:16:17,971:INFO:user mix 0.34 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 23:16:17,971:INFO:user ready to view mixing outputs
+2020-03-23 23:16:18,220:INFO:user mix 0.35 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 23:16:18,221:INFO:user ready to view mixing outputs
+2020-03-23 23:16:31,946:INFO:user mix 0.36 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 23:16:31,947:INFO:user ready to view mixing outputs
+2020-03-23 23:16:32,203:INFO:user mix 0.59 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 23:16:32,203:INFO:user ready to view mixing outputs
+2020-03-23 23:16:32,429:INFO:user mix 0.77 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 23:16:32,430:INFO:user ready to view mixing outputs
+2020-03-23 23:16:32,655:INFO:user mix 0.9 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 23:16:32,655:INFO:user ready to view mixing outputs
+2020-03-23 23:16:32,878:INFO:user mix 0.99 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 23:16:32,879:INFO:user ready to view mixing outputs
+2020-03-23 23:16:33,102:INFO:user mix 1.0 of Magnitude in image 0 and 0 of phase in image 1 on output 1
+2020-03-23 23:16:33,102:INFO:user ready to view mixing outputs
+2020-03-23 23:17:58,916:INFO:user mix 1.0 of Magnitude in image 0 and 0.01 of phase in image 1 on output 2
+2020-03-23 23:17:58,916:INFO:user ready to view mixing outputs
+2020-03-23 23:17:59,160:INFO:user mix 1.0 of Magnitude in image 0 and 0.29 of phase in image 1 on output 2
+2020-03-23 23:17:59,160:INFO:user ready to view mixing outputs
+2020-03-23 23:17:59,391:INFO:user mix 1.0 of Magnitude in image 0 and 0.33 of phase in image 1 on output 2
+2020-03-23 23:17:59,391:INFO:user ready to view mixing outputs
+2020-03-23 23:17:59,629:INFO:user mix 1.0 of Magnitude in image 0 and 0.52 of phase in image 1 on output 2
+2020-03-23 23:17:59,630:INFO:user ready to view mixing outputs
+2020-03-23 23:17:59,857:INFO:user mix 1.0 of Magnitude in image 0 and 0.79 of phase in image 1 on output 2
+2020-03-23 23:17:59,857:INFO:user ready to view mixing outputs
+2020-03-23 23:18:00,072:INFO:user mix 1.0 of Magnitude in image 0 and 0.8 of phase in image 1 on output 2
+2020-03-23 23:18:00,072:INFO:user ready to view mixing outputs
+2020-03-23 23:18:00,297:INFO:user mix 1.0 of Magnitude in image 0 and 1.0 of phase in image 1 on output 2
+2020-03-23 23:18:00,297:INFO:user ready to view mixing outputs
+2020-03-23 23:19:37,390:INFO:user mix 0.99 of Magnitude in image 0 and 1.0 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:37,390:INFO:user ready to view mixing outputs
+2020-03-23 23:19:37,611:INFO:user mix 0.88 of Magnitude in image 0 and 1.0 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:37,611:INFO:user ready to view mixing outputs
+2020-03-23 23:19:44,894:INFO:user mix 0.87 of Magnitude in image 0 and 1.0 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:44,894:INFO:user ready to view mixing outputs
+2020-03-23 23:19:45,117:INFO:user mix 0.63 of Magnitude in image 0 and 1.0 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:45,118:INFO:user ready to view mixing outputs
+2020-03-23 23:19:45,359:INFO:user mix 0.61 of Magnitude in image 0 and 1.0 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:45,360:INFO:user ready to view mixing outputs
+2020-03-23 23:19:47,661:INFO:user mix 0.62 of Magnitude in image 0 and 1.0 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:47,661:INFO:user ready to view mixing outputs
+2020-03-23 23:19:47,887:INFO:user mix 0.95 of Magnitude in image 0 and 1.0 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:47,887:INFO:user ready to view mixing outputs
+2020-03-23 23:19:48,109:INFO:user mix 1.0 of Magnitude in image 0 and 1.0 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:48,109:INFO:user ready to view mixing outputs
+2020-03-23 23:19:50,993:INFO:user mix 1.0 of Magnitude in image 0 and 0.98 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:50,993:INFO:user ready to view mixing outputs
+2020-03-23 23:19:51,220:INFO:user mix 1.0 of Magnitude in image 0 and 0.82 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:51,220:INFO:user ready to view mixing outputs
+2020-03-23 23:19:51,438:INFO:user mix 1.0 of Magnitude in image 0 and 0.77 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:51,439:INFO:user ready to view mixing outputs
+2020-03-23 23:19:53,343:INFO:user mix 1.0 of Magnitude in image 0 and 0.76 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:53,344:INFO:user ready to view mixing outputs
+2020-03-23 23:19:53,564:INFO:user mix 1.0 of Magnitude in image 0 and 0.61 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:53,564:INFO:user ready to view mixing outputs
+2020-03-23 23:19:53,783:INFO:user mix 1.0 of Magnitude in image 0 and 0.6 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:53,783:INFO:user ready to view mixing outputs
+2020-03-23 23:19:59,153:INFO:user mix 1.0 of Magnitude in image 0 and 0.61 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:59,153:INFO:user ready to view mixing outputs
+2020-03-23 23:19:59,382:INFO:user mix 1.0 of Magnitude in image 0 and 0.78 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:59,382:INFO:user ready to view mixing outputs
+2020-03-23 23:19:59,602:INFO:user mix 1.0 of Magnitude in image 0 and 0.95 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:59,602:INFO:user ready to view mixing outputs
+2020-03-23 23:19:59,824:INFO:user mix 1.0 of Magnitude in image 0 and 1.0 of Uniform Phase in image 0 on output 2
+2020-03-23 23:19:59,824:INFO:user ready to view mixing outputs
+2020-03-23 23:20:34,477:INFO:user mix 0.99 of Magnitude in image 1 and 1.0 of Uniform Phase in image 1 on output 2
+2020-03-23 23:20:34,478:INFO:user ready to view mixing outputs
+2020-03-23 23:20:34,699:INFO:user mix 0.9 of Magnitude in image 1 and 1.0 of Uniform Phase in image 1 on output 2
+2020-03-23 23:20:34,699:INFO:user ready to view mixing outputs
+2020-03-23 23:20:40,098:INFO:user mix 0.92 of Magnitude in image 1 and 1.0 of Uniform Phase in image 1 on output 2
+2020-03-23 23:20:40,099:INFO:user ready to view mixing outputs
+2020-03-23 23:20:40,330:INFO:user mix 1.0 of Magnitude in image 1 and 1.0 of Uniform Phase in image 1 on output 2
+2020-03-23 23:20:40,330:INFO:user ready to view mixing outputs
+2020-03-23 23:20:46,488:INFO:user mix 0.99 of Magnitude in image 1 and 1.0 of Uniform Phase in image 1 on output 1
+2020-03-23 23:20:46,488:INFO:user ready to view mixing outputs
+2020-03-23 23:20:46,713:INFO:user mix 0.89 of Magnitude in image 1 and 1.0 of Uniform Phase in image 1 on output 1
+2020-03-23 23:20:46,713:INFO:user ready to view mixing outputs
+2020-03-23 23:20:46,936:INFO:user mix 0.88 of Magnitude in image 1 and 1.0 of Uniform Phase in image 1 on output 1
+2020-03-23 23:20:46,937:INFO:user ready to view mixing outputs
+2020-03-23 23:20:50,771:INFO:user mix 0.89 of Magnitude in image 1 and 1.0 of Uniform Phase in image 1 on output 1
+2020-03-23 23:20:50,771:INFO:user ready to view mixing outputs
+2020-03-23 23:20:50,997:INFO:user mix 1.0 of Magnitude in image 1 and 1.0 of Uniform Phase in image 1 on output 1
+2020-03-23 23:20:50,997:INFO:user ready to view mixing outputs
+2020-03-23 23:22:06,999:INFO:user mix 0.99 of Real in image 1 and 1.0 of Imaginary in image 0 on output 1
+2020-03-23 23:22:06,999:INFO:user ready to view mixing outputs
+2020-03-23 23:22:07,272:INFO:user mix 0.66 of Real in image 1 and 1.0 of Imaginary in image 0 on output 1
+2020-03-23 23:22:07,272:INFO:user ready to view mixing outputs
+2020-03-23 23:22:07,490:INFO:user mix 0.63 of Real in image 1 and 1.0 of Imaginary in image 0 on output 1
+2020-03-23 23:22:07,491:INFO:user ready to view mixing outputs
+2020-03-23 23:22:16,515:INFO:user mix 0.63 of Real in image 1 and 0.99 of Imaginary in image 0 on output 1
+2020-03-23 23:22:16,515:INFO:user ready to view mixing outputs
+2020-03-23 23:22:16,738:INFO:user mix 0.63 of Real in image 1 and 0.86 of Imaginary in image 0 on output 1
+2020-03-23 23:22:16,738:INFO:user ready to view mixing outputs
+2020-03-23 23:22:16,964:INFO:user mix 0.63 of Real in image 1 and 0.65 of Imaginary in image 0 on output 1
+2020-03-23 23:22:16,964:INFO:user ready to view mixing outputs
+2020-03-23 23:22:17,186:INFO:user mix 0.63 of Real in image 1 and 0.51 of Imaginary in image 0 on output 1
+2020-03-23 23:22:17,187:INFO:user ready to view mixing outputs
+2020-03-23 23:22:17,410:INFO:user mix 0.63 of Real in image 1 and 0.39 of Imaginary in image 0 on output 1
+2020-03-23 23:22:17,410:INFO:user ready to view mixing outputs
+2020-03-23 23:22:17,633:INFO:user mix 0.63 of Real in image 1 and 0.38 of Imaginary in image 0 on output 1
+2020-03-23 23:22:17,634:INFO:user ready to view mixing outputs
+2020-03-23 23:22:18,450:INFO:user mix 0.63 of Real in image 1 and 0.37 of Imaginary in image 0 on output 1
+2020-03-23 23:22:18,450:INFO:user ready to view mixing outputs
+2020-03-23 23:22:18,673:INFO:user mix 0.63 of Real in image 1 and 0.34 of Imaginary in image 0 on output 1
+2020-03-23 23:22:18,674:INFO:user ready to view mixing outputs
+2020-03-23 23:22:18,894:INFO:user mix 0.63 of Real in image 1 and 0.33 of Imaginary in image 0 on output 1
+2020-03-23 23:22:18,894:INFO:user ready to view mixing outputs
+2020-03-23 23:22:19,335:INFO:user mix 0.63 of Real in image 1 and 0.32 of Imaginary in image 0 on output 1
+2020-03-23 23:22:19,335:INFO:user ready to view mixing outputs
+2020-03-23 23:22:19,835:INFO:user mix 0.63 of Real in image 1 and 0.33 of Imaginary in image 0 on output 1
+2020-03-23 23:22:19,836:INFO:user ready to view mixing outputs
+2020-03-23 23:22:20,066:INFO:user mix 0.63 of Real in image 1 and 0.48 of Imaginary in image 0 on output 1
+2020-03-23 23:22:20,066:INFO:user ready to view mixing outputs
+2020-03-23 23:22:20,293:INFO:user mix 0.63 of Real in image 1 and 0.74 of Imaginary in image 0 on output 1
+2020-03-23 23:22:20,293:INFO:user ready to view mixing outputs
+2020-03-23 23:22:20,516:INFO:user mix 0.63 of Real in image 1 and 0.84 of Imaginary in image 0 on output 1
+2020-03-23 23:22:20,516:INFO:user ready to view mixing outputs
+2020-03-23 23:22:25,115:INFO:user mix 0.62 of Real in image 1 and 0.84 of Imaginary in image 0 on output 1
+2020-03-23 23:22:25,115:INFO:user ready to view mixing outputs
+2020-03-23 23:22:25,352:INFO:user mix 0.58 of Real in image 1 and 0.84 of Imaginary in image 0 on output 1
+2020-03-23 23:22:25,352:INFO:user ready to view mixing outputs
+2020-03-23 23:22:25,578:INFO:user mix 0.57 of Real in image 1 and 0.84 of Imaginary in image 0 on output 1
+2020-03-23 23:22:25,578:INFO:user ready to view mixing outputs
+2020-03-23 23:22:26,929:INFO:user mix 0.56 of Real in image 1 and 0.84 of Imaginary in image 0 on output 1
+2020-03-23 23:22:26,929:INFO:user ready to view mixing outputs
+2020-03-23 23:22:27,169:INFO:user mix 0.54 of Real in image 1 and 0.84 of Imaginary in image 0 on output 1
+2020-03-23 23:22:27,169:INFO:user ready to view mixing outputs
+2020-03-23 23:22:28,743:INFO:user mix 0.53 of Real in image 1 and 0.84 of Imaginary in image 0 on output 1
+2020-03-23 23:22:28,743:INFO:user ready to view mixing outputs
+2020-03-23 23:22:28,968:INFO:user mix 0.52 of Real in image 1 and 0.84 of Imaginary in image 0 on output 1
+2020-03-23 23:22:28,968:INFO:user ready to view mixing outputs
+2020-03-23 23:22:29,720:INFO:user mix 0.51 of Real in image 1 and 0.84 of Imaginary in image 0 on output 1
+2020-03-23 23:22:29,720:INFO:user ready to view mixing outputs
+2020-03-23 23:22:30,524:INFO:user mix 0.5 of Real in image 1 and 0.84 of Imaginary in image 0 on output 1
+2020-03-23 23:22:30,524:INFO:user ready to view mixing outputs
+2020-03-23 23:22:34,806:INFO:user mix 0.5 of Real in image 1 and 0.83 of Imaginary in image 0 on output 1
+2020-03-23 23:22:34,806:INFO:user ready to view mixing outputs
+2020-03-23 23:22:35,028:INFO:user mix 0.5 of Real in image 1 and 0.71 of Imaginary in image 0 on output 1
+2020-03-23 23:22:35,029:INFO:user ready to view mixing outputs
+2020-03-23 23:22:35,269:INFO:user mix 0.5 of Real in image 1 and 0.61 of Imaginary in image 0 on output 1
+2020-03-23 23:22:35,269:INFO:user ready to view mixing outputs
+2020-03-23 23:22:35,492:INFO:user mix 0.5 of Real in image 1 and 0.53 of Imaginary in image 0 on output 1
+2020-03-23 23:22:35,492:INFO:user ready to view mixing outputs
+2020-03-23 23:22:35,716:INFO:user mix 0.5 of Real in image 1 and 0.49 of Imaginary in image 0 on output 1
+2020-03-23 23:22:35,716:INFO:user ready to view mixing outputs
+2020-03-23 23:22:35,968:INFO:user mix 0.5 of Real in image 1 and 0.48 of Imaginary in image 0 on output 1
+2020-03-23 23:22:35,968:INFO:user ready to view mixing outputs
+2020-03-23 23:22:36,684:INFO:user mix 0.5 of Real in image 1 and 0.49 of Imaginary in image 0 on output 1
+2020-03-23 23:22:36,684:INFO:user ready to view mixing outputs
+2020-03-23 23:22:36,907:INFO:user mix 0.5 of Real in image 1 and 0.5 of Imaginary in image 0 on output 1
+2020-03-23 23:22:36,907:INFO:user ready to view mixing outputs
+2020-03-23 23:22:41,873:INFO:user mix 0.5 of Real in image 1 and 0.51 of Imaginary in image 0 on output 1
+2020-03-23 23:22:41,873:INFO:user ready to view mixing outputs
+2020-03-23 23:22:42,098:INFO:user mix 0.5 of Real in image 1 and 0.49 of Imaginary in image 0 on output 1
+2020-03-23 23:22:42,098:INFO:user ready to view mixing outputs
+2020-03-23 23:22:42,343:INFO:user mix 0.5 of Real in image 1 and 0.5 of Imaginary in image 0 on output 1
+2020-03-23 23:22:42,344:INFO:user ready to view mixing outputs
+2020-03-23 23:22:42,564:INFO:user mix 0.5 of Real in image 1 and 0.49 of Imaginary in image 0 on output 1
+2020-03-23 23:22:42,564:INFO:user ready to view mixing outputs
+2020-03-23 23:22:42,787:INFO:user mix 0.5 of Real in image 1 and 0.48 of Imaginary in image 0 on output 1
+2020-03-23 23:22:42,788:INFO:user ready to view mixing outputs
+2020-03-23 23:22:43,024:INFO:user mix 0.5 of Real in image 1 and 0.47 of Imaginary in image 0 on output 1
+2020-03-23 23:22:43,024:INFO:user ready to view mixing outputs
+2020-03-23 23:22:45,154:INFO:user mix 0.49 of Real in image 1 and 0.47 of Imaginary in image 0 on output 1
+2020-03-23 23:22:45,154:INFO:user ready to view mixing outputs
+2020-03-23 23:22:45,379:INFO:user mix 0.42 of Real in image 1 and 0.47 of Imaginary in image 0 on output 1
+2020-03-23 23:22:45,379:INFO:user ready to view mixing outputs
+2020-03-23 23:22:45,607:INFO:user mix 0.38 of Real in image 1 and 0.47 of Imaginary in image 0 on output 1
+2020-03-23 23:22:45,607:INFO:user ready to view mixing outputs
+2020-03-23 23:22:45,832:INFO:user mix 0.37 of Real in image 1 and 0.47 of Imaginary in image 0 on output 1
+2020-03-23 23:22:45,832:INFO:user ready to view mixing outputs
+2020-03-23 23:22:47,472:INFO:user mix 0.38 of Real in image 1 and 0.47 of Imaginary in image 0 on output 1
+2020-03-23 23:22:47,472:INFO:user ready to view mixing outputs
+2020-03-23 23:22:47,695:INFO:user mix 0.4 of Real in image 1 and 0.47 of Imaginary in image 0 on output 1
+2020-03-23 23:22:47,695:INFO:user ready to view mixing outputs
+2020-03-23 23:22:51,274:INFO:user mix 0.4 of Real in image 1 and 0.48 of Imaginary in image 0 on output 1
+2020-03-23 23:22:51,274:INFO:user ready to view mixing outputs
+2020-03-23 23:22:51,498:INFO:user mix 0.4 of Real in image 1 and 0.58 of Imaginary in image 0 on output 1
+2020-03-23 23:22:51,498:INFO:user ready to view mixing outputs
+2020-03-23 23:22:51,721:INFO:user mix 0.4 of Real in image 1 and 0.62 of Imaginary in image 0 on output 1
+2020-03-23 23:22:51,721:INFO:user ready to view mixing outputs
+2020-03-23 23:22:52,083:INFO:user mix 0.4 of Real in image 1 and 0.64 of Imaginary in image 0 on output 1
+2020-03-23 23:22:52,083:INFO:user ready to view mixing outputs
+2020-03-23 23:22:52,318:INFO:user mix 0.4 of Real in image 1 and 0.66 of Imaginary in image 0 on output 1
+2020-03-23 23:22:52,318:INFO:user ready to view mixing outputs
+2020-03-23 23:22:53,260:INFO:user mix 0.4 of Real in image 1 and 0.67 of Imaginary in image 0 on output 1
+2020-03-23 23:22:53,260:INFO:user ready to view mixing outputs
+2020-03-23 23:22:54,077:INFO:user mix 0.4 of Real in image 1 and 0.68 of Imaginary in image 0 on output 1
+2020-03-23 23:22:54,077:INFO:user ready to view mixing outputs
+2020-03-23 23:22:54,460:INFO:user mix 0.4 of Real in image 1 and 0.69 of Imaginary in image 0 on output 1
+2020-03-23 23:22:54,460:INFO:user ready to view mixing outputs
+2020-03-23 23:22:54,681:INFO:user mix 0.4 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:22:54,682:INFO:user ready to view mixing outputs
+2020-03-23 23:22:55,402:INFO:user mix 0.4 of Real in image 1 and 0.71 of Imaginary in image 0 on output 1
+2020-03-23 23:22:55,402:INFO:user ready to view mixing outputs
+2020-03-23 23:22:55,627:INFO:user mix 0.4 of Real in image 1 and 0.72 of Imaginary in image 0 on output 1
+2020-03-23 23:22:55,627:INFO:user ready to view mixing outputs
+2020-03-23 23:22:55,850:INFO:user mix 0.4 of Real in image 1 and 0.76 of Imaginary in image 0 on output 1
+2020-03-23 23:22:55,851:INFO:user ready to view mixing outputs
+2020-03-23 23:22:56,073:INFO:user mix 0.4 of Real in image 1 and 0.81 of Imaginary in image 0 on output 1
+2020-03-23 23:22:56,073:INFO:user ready to view mixing outputs
+2020-03-23 23:22:56,317:INFO:user mix 0.4 of Real in image 1 and 0.86 of Imaginary in image 0 on output 1
+2020-03-23 23:22:56,317:INFO:user ready to view mixing outputs
+2020-03-23 23:22:56,541:INFO:user mix 0.4 of Real in image 1 and 0.9 of Imaginary in image 0 on output 1
+2020-03-23 23:22:56,541:INFO:user ready to view mixing outputs
+2020-03-23 23:22:58,860:INFO:user mix 0.4 of Real in image 1 and 0.89 of Imaginary in image 0 on output 1
+2020-03-23 23:22:58,861:INFO:user ready to view mixing outputs
+2020-03-23 23:22:59,084:INFO:user mix 0.4 of Real in image 1 and 0.87 of Imaginary in image 0 on output 1
+2020-03-23 23:22:59,084:INFO:user ready to view mixing outputs
+2020-03-23 23:22:59,328:INFO:user mix 0.4 of Real in image 1 and 0.81 of Imaginary in image 0 on output 1
+2020-03-23 23:22:59,328:INFO:user ready to view mixing outputs
+2020-03-23 23:23:37,373:INFO:user mix 0.4 of Real in image 1 and 0.8 of Imaginary in image 0 on output 2
+2020-03-23 23:23:37,373:INFO:user ready to view mixing outputs
+2020-03-23 23:23:37,596:INFO:user mix 0.4 of Real in image 1 and 0.67 of Imaginary in image 0 on output 2
+2020-03-23 23:23:37,596:INFO:user ready to view mixing outputs
+2020-03-23 23:23:37,817:INFO:user mix 0.4 of Real in image 1 and 0.54 of Imaginary in image 0 on output 2
+2020-03-23 23:23:37,818:INFO:user ready to view mixing outputs
+2020-03-23 23:23:38,039:INFO:user mix 0.4 of Real in image 1 and 0.44 of Imaginary in image 0 on output 2
+2020-03-23 23:23:38,039:INFO:user ready to view mixing outputs
+2020-03-23 23:23:38,287:INFO:user mix 0.4 of Real in image 1 and 0.35 of Imaginary in image 0 on output 2
+2020-03-23 23:23:38,288:INFO:user ready to view mixing outputs
+2020-03-23 23:23:38,508:INFO:user mix 0.4 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:38,508:INFO:user ready to view mixing outputs
+2020-03-23 23:23:48,072:INFO:user mix 0.41 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:48,072:INFO:user ready to view mixing outputs
+2020-03-23 23:23:48,316:INFO:user mix 0.47 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:48,317:INFO:user ready to view mixing outputs
+2020-03-23 23:23:48,536:INFO:user mix 0.54 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:48,537:INFO:user ready to view mixing outputs
+2020-03-23 23:23:48,758:INFO:user mix 0.62 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:48,759:INFO:user ready to view mixing outputs
+2020-03-23 23:23:48,982:INFO:user mix 0.63 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:48,982:INFO:user ready to view mixing outputs
+2020-03-23 23:23:49,979:INFO:user mix 0.62 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:49,979:INFO:user ready to view mixing outputs
+2020-03-23 23:23:50,204:INFO:user mix 0.53 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:50,204:INFO:user ready to view mixing outputs
+2020-03-23 23:23:50,430:INFO:user mix 0.48 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:50,430:INFO:user ready to view mixing outputs
+2020-03-23 23:23:50,652:INFO:user mix 0.43 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:50,652:INFO:user ready to view mixing outputs
+2020-03-23 23:23:50,875:INFO:user mix 0.39 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:50,875:INFO:user ready to view mixing outputs
+2020-03-23 23:23:51,097:INFO:user mix 0.32 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:51,097:INFO:user ready to view mixing outputs
+2020-03-23 23:23:51,319:INFO:user mix 0.24 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:51,320:INFO:user ready to view mixing outputs
+2020-03-23 23:23:51,541:INFO:user mix 0.23 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:51,541:INFO:user ready to view mixing outputs
+2020-03-23 23:23:51,936:INFO:user mix 0.24 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:51,936:INFO:user ready to view mixing outputs
+2020-03-23 23:23:52,176:INFO:user mix 0.25 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:52,176:INFO:user ready to view mixing outputs
+2020-03-23 23:23:52,407:INFO:user mix 0.27 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:52,407:INFO:user ready to view mixing outputs
+2020-03-23 23:23:52,629:INFO:user mix 0.3 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:52,630:INFO:user ready to view mixing outputs
+2020-03-23 23:23:53,040:INFO:user mix 0.31 of Real in image 1 and 0.3 of Imaginary in image 0 on output 2
+2020-03-23 23:23:53,040:INFO:user ready to view mixing outputs
+2020-03-23 23:25:42,524:INFO:user mix 0.32 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:42,524:INFO:user ready to view mixing outputs
+2020-03-23 23:25:42,747:INFO:user mix 0.46 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:42,747:INFO:user ready to view mixing outputs
+2020-03-23 23:25:42,969:INFO:user mix 0.58 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:42,969:INFO:user ready to view mixing outputs
+2020-03-23 23:25:43,221:INFO:user mix 0.67 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:43,221:INFO:user ready to view mixing outputs
+2020-03-23 23:25:43,444:INFO:user mix 0.73 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:43,444:INFO:user ready to view mixing outputs
+2020-03-23 23:25:43,668:INFO:user mix 0.78 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:43,668:INFO:user ready to view mixing outputs
+2020-03-23 23:25:43,895:INFO:user mix 0.79 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:43,895:INFO:user ready to view mixing outputs
+2020-03-23 23:25:45,998:INFO:user mix 0.8 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:45,998:INFO:user ready to view mixing outputs
+2020-03-23 23:25:46,253:INFO:user mix 0.83 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:46,253:INFO:user ready to view mixing outputs
+2020-03-23 23:25:46,476:INFO:user mix 0.87 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:46,476:INFO:user ready to view mixing outputs
+2020-03-23 23:25:46,696:INFO:user mix 0.88 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:46,696:INFO:user ready to view mixing outputs
+2020-03-23 23:25:46,918:INFO:user mix 0.91 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:46,918:INFO:user ready to view mixing outputs
+2020-03-23 23:25:47,140:INFO:user mix 0.94 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:47,140:INFO:user ready to view mixing outputs
+2020-03-23 23:25:47,360:INFO:user mix 0.96 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:47,360:INFO:user ready to view mixing outputs
+2020-03-23 23:25:47,583:INFO:user mix 0.97 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:47,583:INFO:user ready to view mixing outputs
+2020-03-23 23:25:48,336:INFO:user mix 0.96 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:48,336:INFO:user ready to view mixing outputs
+2020-03-23 23:25:48,559:INFO:user mix 0.8 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:48,560:INFO:user ready to view mixing outputs
+2020-03-23 23:25:48,782:INFO:user mix 0.68 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:48,783:INFO:user ready to view mixing outputs
+2020-03-23 23:25:49,008:INFO:user mix 0.56 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:49,008:INFO:user ready to view mixing outputs
+2020-03-23 23:25:49,258:INFO:user mix 0.47 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:49,258:INFO:user ready to view mixing outputs
+2020-03-23 23:25:49,480:INFO:user mix 0.4 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:49,480:INFO:user ready to view mixing outputs
+2020-03-23 23:25:49,705:INFO:user mix 0.31 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:49,705:INFO:user ready to view mixing outputs
+2020-03-23 23:25:49,925:INFO:user mix 0.24 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:49,925:INFO:user ready to view mixing outputs
+2020-03-23 23:25:50,158:INFO:user mix 0.21 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:50,159:INFO:user ready to view mixing outputs
+2020-03-23 23:25:50,404:INFO:user mix 0.2 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:50,404:INFO:user ready to view mixing outputs
+2020-03-23 23:25:50,636:INFO:user mix 0.19 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:50,637:INFO:user ready to view mixing outputs
+2020-03-23 23:25:50,858:INFO:user mix 0.15 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:50,858:INFO:user ready to view mixing outputs
+2020-03-23 23:25:51,081:INFO:user mix 0.12 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:51,081:INFO:user ready to view mixing outputs
+2020-03-23 23:25:51,964:INFO:user mix 0.13 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:51,964:INFO:user ready to view mixing outputs
+2020-03-23 23:25:52,197:INFO:user mix 0.14 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:52,197:INFO:user ready to view mixing outputs
+2020-03-23 23:25:52,424:INFO:user mix 0.19 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:52,424:INFO:user ready to view mixing outputs
+2020-03-23 23:25:52,645:INFO:user mix 0.23 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:52,646:INFO:user ready to view mixing outputs
+2020-03-23 23:25:52,869:INFO:user mix 0.26 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:52,870:INFO:user ready to view mixing outputs
+2020-03-23 23:25:53,095:INFO:user mix 0.29 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:53,096:INFO:user ready to view mixing outputs
+2020-03-23 23:25:53,336:INFO:user mix 0.31 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:53,336:INFO:user ready to view mixing outputs
+2020-03-23 23:25:53,558:INFO:user mix 0.33 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:53,558:INFO:user ready to view mixing outputs
+2020-03-23 23:25:53,781:INFO:user mix 0.36 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:53,781:INFO:user ready to view mixing outputs
+2020-03-23 23:25:54,004:INFO:user mix 0.38 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:54,004:INFO:user ready to view mixing outputs
+2020-03-23 23:25:54,250:INFO:user mix 0.4 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:54,250:INFO:user ready to view mixing outputs
+2020-03-23 23:25:54,474:INFO:user mix 0.43 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:54,474:INFO:user ready to view mixing outputs
+2020-03-23 23:25:54,699:INFO:user mix 0.45 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:54,699:INFO:user ready to view mixing outputs
+2020-03-23 23:25:54,921:INFO:user mix 0.48 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:54,921:INFO:user ready to view mixing outputs
+2020-03-23 23:25:55,149:INFO:user mix 0.52 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:55,150:INFO:user ready to view mixing outputs
+2020-03-23 23:25:55,379:INFO:user mix 0.53 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:55,379:INFO:user ready to view mixing outputs
+2020-03-23 23:25:55,607:INFO:user mix 0.54 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:55,608:INFO:user ready to view mixing outputs
+2020-03-23 23:25:55,827:INFO:user mix 0.55 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:55,827:INFO:user ready to view mixing outputs
+2020-03-23 23:25:56,192:INFO:user mix 0.56 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:56,193:INFO:user ready to view mixing outputs
+2020-03-23 23:25:56,420:INFO:user mix 0.57 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:56,420:INFO:user ready to view mixing outputs
+2020-03-23 23:25:56,640:INFO:user mix 0.59 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:56,640:INFO:user ready to view mixing outputs
+2020-03-23 23:25:56,860:INFO:user mix 0.62 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:56,860:INFO:user ready to view mixing outputs
+2020-03-23 23:25:57,081:INFO:user mix 0.65 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:57,081:INFO:user ready to view mixing outputs
+2020-03-23 23:25:57,342:INFO:user mix 0.66 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:57,342:INFO:user ready to view mixing outputs
+2020-03-23 23:25:57,564:INFO:user mix 0.68 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:57,564:INFO:user ready to view mixing outputs
+2020-03-23 23:25:57,886:INFO:user mix 0.69 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:57,886:INFO:user ready to view mixing outputs
+2020-03-23 23:25:58,108:INFO:user mix 0.73 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:58,109:INFO:user ready to view mixing outputs
+2020-03-23 23:25:58,349:INFO:user mix 0.79 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:58,349:INFO:user ready to view mixing outputs
+2020-03-23 23:25:58,574:INFO:user mix 0.85 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:58,574:INFO:user ready to view mixing outputs
+2020-03-23 23:25:58,799:INFO:user mix 0.91 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:58,799:INFO:user ready to view mixing outputs
+2020-03-23 23:25:59,021:INFO:user mix 0.96 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:59,021:INFO:user ready to view mixing outputs
+2020-03-23 23:25:59,264:INFO:user mix 0.98 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:25:59,264:INFO:user ready to view mixing outputs
+2020-03-23 23:26:00,391:INFO:user mix 0.99 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:00,391:INFO:user ready to view mixing outputs
+2020-03-23 23:26:00,614:INFO:user mix 1.0 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:00,614:INFO:user ready to view mixing outputs
+2020-03-23 23:26:01,813:INFO:user mix 0.99 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:01,813:INFO:user ready to view mixing outputs
+2020-03-23 23:26:02,034:INFO:user mix 0.93 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:02,034:INFO:user ready to view mixing outputs
+2020-03-23 23:26:02,272:INFO:user mix 0.92 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:02,272:INFO:user ready to view mixing outputs
+2020-03-23 23:26:02,496:INFO:user mix 0.9 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:02,497:INFO:user ready to view mixing outputs
+2020-03-23 23:26:02,721:INFO:user mix 0.86 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:02,721:INFO:user ready to view mixing outputs
+2020-03-23 23:26:02,945:INFO:user mix 0.84 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:02,945:INFO:user ready to view mixing outputs
+2020-03-23 23:26:03,192:INFO:user mix 0.83 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:03,193:INFO:user ready to view mixing outputs
+2020-03-23 23:26:04,380:INFO:user mix 0.82 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:04,381:INFO:user ready to view mixing outputs
+2020-03-23 23:26:04,606:INFO:user mix 0.8 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:04,606:INFO:user ready to view mixing outputs
+2020-03-23 23:26:05,895:INFO:user mix 0.81 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:05,895:INFO:user ready to view mixing outputs
+2020-03-23 23:26:06,118:INFO:user mix 0.83 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:06,118:INFO:user ready to view mixing outputs
+2020-03-23 23:26:07,206:INFO:user mix 0.82 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:07,206:INFO:user ready to view mixing outputs
+2020-03-23 23:26:07,429:INFO:user mix 0.77 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:07,430:INFO:user ready to view mixing outputs
+2020-03-23 23:26:07,654:INFO:user mix 0.74 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:07,654:INFO:user ready to view mixing outputs
+2020-03-23 23:26:08,442:INFO:user mix 0.75 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:08,442:INFO:user ready to view mixing outputs
+2020-03-23 23:26:08,668:INFO:user mix 0.76 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:08,668:INFO:user ready to view mixing outputs
+2020-03-23 23:26:08,892:INFO:user mix 0.78 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:08,892:INFO:user ready to view mixing outputs
+2020-03-23 23:26:09,120:INFO:user mix 0.83 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:09,121:INFO:user ready to view mixing outputs
+2020-03-23 23:26:10,568:INFO:user mix 0.82 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:10,568:INFO:user ready to view mixing outputs
+2020-03-23 23:26:10,819:INFO:user mix 0.81 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:10,819:INFO:user ready to view mixing outputs
+2020-03-23 23:26:15,655:INFO:user mix 0.8 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:15,655:INFO:user ready to view mixing outputs
+2020-03-23 23:26:15,884:INFO:user mix 0.77 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:15,884:INFO:user ready to view mixing outputs
+2020-03-23 23:26:16,105:INFO:user mix 0.71 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:16,106:INFO:user ready to view mixing outputs
+2020-03-23 23:26:16,342:INFO:user mix 0.69 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:16,342:INFO:user ready to view mixing outputs
+2020-03-23 23:26:16,566:INFO:user mix 0.68 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:16,566:INFO:user ready to view mixing outputs
+2020-03-23 23:26:16,788:INFO:user mix 0.67 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:16,788:INFO:user ready to view mixing outputs
+2020-03-23 23:26:17,759:INFO:user mix 0.66 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:17,759:INFO:user ready to view mixing outputs
+2020-03-23 23:26:17,979:INFO:user mix 0.65 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:17,979:INFO:user ready to view mixing outputs
+2020-03-23 23:26:18,548:INFO:user mix 0.64 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:18,548:INFO:user ready to view mixing outputs
+2020-03-23 23:26:18,774:INFO:user mix 0.63 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:18,775:INFO:user ready to view mixing outputs
+2020-03-23 23:26:19,640:INFO:user mix 0.62 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:19,640:INFO:user ready to view mixing outputs
+2020-03-23 23:26:21,594:INFO:user mix 0.61 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:21,594:INFO:user ready to view mixing outputs
+2020-03-23 23:26:23,404:INFO:user mix 0.6 of Real in image 1 and 0.3 of Imaginary in image 0 on output 1
+2020-03-23 23:26:23,405:INFO:user ready to view mixing outputs
+2020-03-23 23:26:25,815:INFO:user mix 0.6 of Real in image 1 and 0.31 of Imaginary in image 0 on output 1
+2020-03-23 23:26:25,815:INFO:user ready to view mixing outputs
+2020-03-23 23:26:26,041:INFO:user mix 0.6 of Real in image 1 and 0.37 of Imaginary in image 0 on output 1
+2020-03-23 23:26:26,042:INFO:user ready to view mixing outputs
+2020-03-23 23:26:26,264:INFO:user mix 0.6 of Real in image 1 and 0.4 of Imaginary in image 0 on output 1
+2020-03-23 23:26:26,264:INFO:user ready to view mixing outputs
+2020-03-23 23:26:26,490:INFO:user mix 0.6 of Real in image 1 and 0.45 of Imaginary in image 0 on output 1
+2020-03-23 23:26:26,490:INFO:user ready to view mixing outputs
+2020-03-23 23:26:26,920:INFO:user mix 0.6 of Real in image 1 and 0.46 of Imaginary in image 0 on output 1
+2020-03-23 23:26:26,920:INFO:user ready to view mixing outputs
+2020-03-23 23:26:27,143:INFO:user mix 0.6 of Real in image 1 and 0.47 of Imaginary in image 0 on output 1
+2020-03-23 23:26:27,143:INFO:user ready to view mixing outputs
+2020-03-23 23:26:27,368:INFO:user mix 0.6 of Real in image 1 and 0.5 of Imaginary in image 0 on output 1
+2020-03-23 23:26:27,369:INFO:user ready to view mixing outputs
+2020-03-23 23:26:27,590:INFO:user mix 0.6 of Real in image 1 and 0.53 of Imaginary in image 0 on output 1
+2020-03-23 23:26:27,590:INFO:user ready to view mixing outputs
+2020-03-23 23:26:27,814:INFO:user mix 0.6 of Real in image 1 and 0.59 of Imaginary in image 0 on output 1
+2020-03-23 23:26:27,814:INFO:user ready to view mixing outputs
+2020-03-23 23:26:29,850:INFO:user mix 0.6 of Real in image 1 and 0.6 of Imaginary in image 0 on output 1
+2020-03-23 23:26:29,850:INFO:user ready to view mixing outputs
+2020-03-23 23:26:30,075:INFO:user mix 0.6 of Real in image 1 and 0.64 of Imaginary in image 0 on output 1
+2020-03-23 23:26:30,076:INFO:user ready to view mixing outputs
+2020-03-23 23:26:30,308:INFO:user mix 0.6 of Real in image 1 and 0.67 of Imaginary in image 0 on output 1
+2020-03-23 23:26:30,308:INFO:user ready to view mixing outputs
+2020-03-23 23:26:30,534:INFO:user mix 0.6 of Real in image 1 and 0.68 of Imaginary in image 0 on output 1
+2020-03-23 23:26:30,535:INFO:user ready to view mixing outputs
+2020-03-23 23:26:30,758:INFO:user mix 0.6 of Real in image 1 and 0.69 of Imaginary in image 0 on output 1
+2020-03-23 23:26:30,758:INFO:user ready to view mixing outputs
+2020-03-23 23:26:30,980:INFO:user mix 0.6 of Real in image 1 and 0.71 of Imaginary in image 0 on output 1
+2020-03-23 23:26:30,980:INFO:user ready to view mixing outputs
+2020-03-23 23:26:32,026:INFO:user mix 0.6 of Real in image 1 and 0.72 of Imaginary in image 0 on output 1
+2020-03-23 23:26:32,027:INFO:user ready to view mixing outputs
+2020-03-23 23:26:32,268:INFO:user mix 0.6 of Real in image 1 and 0.78 of Imaginary in image 0 on output 1
+2020-03-23 23:26:32,268:INFO:user ready to view mixing outputs
+2020-03-23 23:26:32,492:INFO:user mix 0.6 of Real in image 1 and 0.82 of Imaginary in image 0 on output 1
+2020-03-23 23:26:32,492:INFO:user ready to view mixing outputs
+2020-03-23 23:26:32,718:INFO:user mix 0.6 of Real in image 1 and 0.86 of Imaginary in image 0 on output 1
+2020-03-23 23:26:32,719:INFO:user ready to view mixing outputs
+2020-03-23 23:26:32,938:INFO:user mix 0.6 of Real in image 1 and 0.91 of Imaginary in image 0 on output 1
+2020-03-23 23:26:32,938:INFO:user ready to view mixing outputs
+2020-03-23 23:26:33,175:INFO:user mix 0.6 of Real in image 1 and 0.95 of Imaginary in image 0 on output 1
+2020-03-23 23:26:33,175:INFO:user ready to view mixing outputs
+2020-03-23 23:26:33,400:INFO:user mix 0.6 of Real in image 1 and 0.96 of Imaginary in image 0 on output 1
+2020-03-23 23:26:33,400:INFO:user ready to view mixing outputs
+2020-03-23 23:26:33,780:INFO:user mix 0.6 of Real in image 1 and 0.97 of Imaginary in image 0 on output 1
+2020-03-23 23:26:33,780:INFO:user ready to view mixing outputs
+2020-03-23 23:26:34,005:INFO:user mix 0.6 of Real in image 1 and 0.98 of Imaginary in image 0 on output 1
+2020-03-23 23:26:34,005:INFO:user ready to view mixing outputs
+2020-03-23 23:26:34,331:INFO:user mix 0.6 of Real in image 1 and 0.97 of Imaginary in image 0 on output 1
+2020-03-23 23:26:34,331:INFO:user ready to view mixing outputs
+2020-03-23 23:26:34,561:INFO:user mix 0.6 of Real in image 1 and 0.94 of Imaginary in image 0 on output 1
+2020-03-23 23:26:34,561:INFO:user ready to view mixing outputs
+2020-03-23 23:26:34,786:INFO:user mix 0.6 of Real in image 1 and 0.88 of Imaginary in image 0 on output 1
+2020-03-23 23:26:34,786:INFO:user ready to view mixing outputs
+2020-03-23 23:26:35,012:INFO:user mix 0.6 of Real in image 1 and 0.83 of Imaginary in image 0 on output 1
+2020-03-23 23:26:35,013:INFO:user ready to view mixing outputs
+2020-03-23 23:26:35,238:INFO:user mix 0.6 of Real in image 1 and 0.79 of Imaginary in image 0 on output 1
+2020-03-23 23:26:35,238:INFO:user ready to view mixing outputs
+2020-03-23 23:26:35,467:INFO:user mix 0.6 of Real in image 1 and 0.78 of Imaginary in image 0 on output 1
+2020-03-23 23:26:35,467:INFO:user ready to view mixing outputs
+2020-03-23 23:26:36,349:INFO:user mix 0.6 of Real in image 1 and 0.77 of Imaginary in image 0 on output 1
+2020-03-23 23:26:36,349:INFO:user ready to view mixing outputs
+2020-03-23 23:26:36,573:INFO:user mix 0.6 of Real in image 1 and 0.76 of Imaginary in image 0 on output 1
+2020-03-23 23:26:36,573:INFO:user ready to view mixing outputs
+2020-03-23 23:26:37,146:INFO:user mix 0.6 of Real in image 1 and 0.75 of Imaginary in image 0 on output 1
+2020-03-23 23:26:37,146:INFO:user ready to view mixing outputs
+2020-03-23 23:26:37,378:INFO:user mix 0.6 of Real in image 1 and 0.73 of Imaginary in image 0 on output 1
+2020-03-23 23:26:37,378:INFO:user ready to view mixing outputs
+2020-03-23 23:26:39,694:INFO:user mix 0.6 of Real in image 1 and 0.72 of Imaginary in image 0 on output 1
+2020-03-23 23:26:39,694:INFO:user ready to view mixing outputs
+2020-03-23 23:26:39,915:INFO:user mix 0.6 of Real in image 1 and 0.71 of Imaginary in image 0 on output 1
+2020-03-23 23:26:39,916:INFO:user ready to view mixing outputs
+2020-03-23 23:26:40,603:INFO:user mix 0.6 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:40,603:INFO:user ready to view mixing outputs
+2020-03-23 23:26:45,772:INFO:user mix 0.59 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:45,772:INFO:user ready to view mixing outputs
+2020-03-23 23:26:45,993:INFO:user mix 0.55 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:45,993:INFO:user ready to view mixing outputs
+2020-03-23 23:26:46,243:INFO:user mix 0.52 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:46,243:INFO:user ready to view mixing outputs
+2020-03-23 23:26:46,470:INFO:user mix 0.47 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:46,470:INFO:user ready to view mixing outputs
+2020-03-23 23:26:46,700:INFO:user mix 0.42 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:46,701:INFO:user ready to view mixing outputs
+2020-03-23 23:26:46,929:INFO:user mix 0.37 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:46,929:INFO:user ready to view mixing outputs
+2020-03-23 23:26:47,164:INFO:user mix 0.35 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:47,164:INFO:user ready to view mixing outputs
+2020-03-23 23:26:47,412:INFO:user mix 0.34 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:47,413:INFO:user ready to view mixing outputs
+2020-03-23 23:26:47,897:INFO:user mix 0.35 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:47,897:INFO:user ready to view mixing outputs
+2020-03-23 23:26:48,122:INFO:user mix 0.36 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:48,122:INFO:user ready to view mixing outputs
+2020-03-23 23:26:48,362:INFO:user mix 0.39 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:48,362:INFO:user ready to view mixing outputs
+2020-03-23 23:26:48,587:INFO:user mix 0.44 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:48,588:INFO:user ready to view mixing outputs
+2020-03-23 23:26:48,811:INFO:user mix 0.47 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:48,811:INFO:user ready to view mixing outputs
+2020-03-23 23:26:49,036:INFO:user mix 0.48 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:49,037:INFO:user ready to view mixing outputs
+2020-03-23 23:26:49,292:INFO:user mix 0.5 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:49,292:INFO:user ready to view mixing outputs
+2020-03-23 23:26:51,123:INFO:user mix 0.49 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:51,123:INFO:user ready to view mixing outputs
+2020-03-23 23:26:51,372:INFO:user mix 0.48 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:51,372:INFO:user ready to view mixing outputs
+2020-03-23 23:26:51,593:INFO:user mix 0.47 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:51,593:INFO:user ready to view mixing outputs
+2020-03-23 23:26:52,800:INFO:user mix 0.46 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:52,800:INFO:user ready to view mixing outputs
+2020-03-23 23:26:53,024:INFO:user mix 0.45 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:53,024:INFO:user ready to view mixing outputs
+2020-03-23 23:26:53,260:INFO:user mix 0.44 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:53,260:INFO:user ready to view mixing outputs
+2020-03-23 23:26:54,021:INFO:user mix 0.43 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:54,021:INFO:user ready to view mixing outputs
+2020-03-23 23:26:54,846:INFO:user mix 0.42 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:54,846:INFO:user ready to view mixing outputs
+2020-03-23 23:26:55,388:INFO:user mix 0.43 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:55,388:INFO:user ready to view mixing outputs
+2020-03-23 23:26:56,320:INFO:user mix 0.42 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:56,321:INFO:user ready to view mixing outputs
+2020-03-23 23:26:56,544:INFO:user mix 0.41 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:56,544:INFO:user ready to view mixing outputs
+2020-03-23 23:26:58,084:INFO:user mix 0.4 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:58,084:INFO:user ready to view mixing outputs
+2020-03-23 23:26:58,982:INFO:user mix 0.39 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:58,983:INFO:user ready to view mixing outputs
+2020-03-23 23:26:59,224:INFO:user mix 0.38 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:26:59,224:INFO:user ready to view mixing outputs
+2020-03-23 23:27:00,213:INFO:user mix 0.37 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:27:00,213:INFO:user ready to view mixing outputs
+2020-03-23 23:27:00,438:INFO:user mix 0.35 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:27:00,438:INFO:user ready to view mixing outputs
+2020-03-23 23:27:00,662:INFO:user mix 0.34 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:27:00,662:INFO:user ready to view mixing outputs
+2020-03-23 23:27:01,389:INFO:user mix 0.35 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:27:01,389:INFO:user ready to view mixing outputs
+2020-03-23 23:27:01,618:INFO:user mix 0.38 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:27:01,618:INFO:user ready to view mixing outputs
+2020-03-23 23:27:01,839:INFO:user mix 0.43 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:27:01,839:INFO:user ready to view mixing outputs
+2020-03-23 23:27:02,063:INFO:user mix 0.47 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:27:02,063:INFO:user ready to view mixing outputs
+2020-03-23 23:27:02,296:INFO:user mix 0.5 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:27:02,296:INFO:user ready to view mixing outputs
+2020-03-23 23:27:02,524:INFO:user mix 0.51 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:27:02,524:INFO:user ready to view mixing outputs
+2020-03-23 23:27:02,750:INFO:user mix 0.54 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:27:02,750:INFO:user ready to view mixing outputs
+2020-03-23 23:27:04,556:INFO:user mix 0.53 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:27:04,556:INFO:user ready to view mixing outputs
+2020-03-23 23:27:04,780:INFO:user mix 0.52 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:27:04,780:INFO:user ready to view mixing outputs
+2020-03-23 23:27:08,290:INFO:user mix 0.53 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:27:08,290:INFO:user ready to view mixing outputs
+2020-03-23 23:27:08,517:INFO:user mix 0.56 of Real in image 1 and 0.7 of Imaginary in image 0 on output 1
+2020-03-23 23:27:08,517:INFO:user ready to view mixing outputs
+2020-03-23 23:38:28,325:INFO:User start to choose image 1
+2020-03-23 23:38:34,477:INFO:User start to choose image 2
+2020-03-23 23:38:40,899:INFO:User start to choose image 1
+2020-03-23 23:38:59,473:ERROR:user enter image of wrong size
+2020-03-23 23:38:59,494:INFO:User start to choose image 2
+2020-03-23 23:39:04,852:INFO:User start to choose image 2
+2020-03-23 23:39:08,190:INFO:User start to choose image 1
+2020-03-23 23:39:31,621:ERROR:user enter image of wrong size
+2020-03-23 23:39:31,631:INFO:User start to choose image 2
+2020-03-23 23:40:36,986:INFO:User start to choose image 1
+2020-03-23 23:40:49,600:ERROR:user enter image of wrong size
+2020-03-23 23:40:49,611:INFO:User start to choose image 2
+2020-03-23 23:42:07,711:ERROR:user enter image of wrong size
+2020-03-23 23:42:07,715:INFO:User start to choose image 2
+2020-05-18 03:57:08,803:INFO:User start to choose image 1
