@@ -20,5 +20,5 @@ Results:
 
 2- Mixing Output:
 
-![](output_real&imag.PNG)
+![](MyResults/output_real&imag.PNG)
 
