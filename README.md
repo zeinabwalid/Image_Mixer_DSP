@@ -14,6 +14,11 @@ The user can mix between componnets of image 1 and 2 , and between the component
 
 
 ## Results:
-### Screenshots of the outputs are in MyResults folder.
+Results:
+1- Main Window:
+![](MyResults/start_window.PNG)
 
+2- Mixing Output:
+
+![](output_real&imag.PNG)
 
